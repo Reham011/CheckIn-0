@@ -7,8 +7,7 @@ Create a `.env.local` file:
 
 ```env
 NEXT_PUBLIC_MAPBOX_TOKEN=your_public_mapbox_token_here
-ZOHO_FLOW_WEBHOOK_URL=https://flow.zoho.com/your-webhook-url-here
-```
+ZOHO_FLOW_WEBHOOK_URL=https://flow.zoho.sa/150001185639/flow/webhook/incoming?zapikey=1001.f45c7403ec1d68cc362baa9f53cd9b23.9a0a725956e52c0ea7abb3091f5d094e&isdebug=false
 
 ## Before deploying
 Add these environment variables in your hosting provider:
